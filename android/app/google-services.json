@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "272916531397",
+    "project_id": "portage-app-data",
+    "storage_bucket": "portage-app-data.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272916531397:android:7f9c291b59dc499eea08ac",
+        "android_client_info": {
+          "package_name": "com.example.Portage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272916531397-5fd98pt9tm6bfuijck1s0pcos8j2ddqm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHk4tyYisgOLdsh9n_ryInXtwFa3BBTGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272916531397-5fd98pt9tm6bfuijck1s0pcos8j2ddqm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
